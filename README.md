@@ -1,2 +1,2 @@
-# NLP **supervised multiclass text classification** s-
+# NLP **supervised multiclass text classification** 
 in progress 
